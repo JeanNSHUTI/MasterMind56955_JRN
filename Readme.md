@@ -8,9 +8,9 @@ This is a 3-part project that contains:
 3. A Bindings project containing network packet definitions and interpretations
 
 Sources for this project:
-[Mastermind](https://github.com/reyesreg/mastermind) by Reg Reyes
-[Server/Client Solution for Visual Studio and Unity](https://www.youtube.com/watch?v=FY1QLjj2nwY) (tutorial) by Kevin Kaymak
-AroundThisWorld an example Client-Server application made available by my professor D. Grobet
+1. [Mastermind](https://github.com/reyesreg/mastermind) by Reg Reyes
+2. [Server/Client Solution for Visual Studio and Unity](https://www.youtube.com/watch?v=FY1QLjj2nwY) (tutorial) by Kevin Kaymak
+3. AroundThisWorld an example Client-Server application made available by my professor D. Grobet
 
 ### How to play: ###
 
