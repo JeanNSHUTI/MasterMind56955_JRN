@@ -4,8 +4,8 @@
 
 This is a 3-part project that contains:
 1. A Windows forms client application for the classic MasterMind game which sends points earned to Server if game over/completed.
-2. A Server that for now, sends an ackonowledge message when client is connected and
-3. A Bindings project containing network packet definitions and interpretations
+2. A Server that for now, sends an ackonowledge message when client is connected and prints incoming data from clients.
+3. A Bindings project containing network packet definitions and interpretations used by both server and client.
 
 Sources for this project:
 1. [Mastermind](https://github.com/reyesreg/mastermind) by Reg Reyes
@@ -22,4 +22,9 @@ Sources for this project:
 * If the player guesses the 5 colors correctly, user is asked if he wants to restart and gets points +200 points for winning plus bonus for level (out of 6) game was finished.
 * Client will send to server the total tally for each client that completes/finishes a game.
 * If the player does not guess the colour sequence correctly, the game will reveal the colors at the end of the 6 turns.
+
+### Hint ###
+
+* Setup Visual Studio to run both projects separetly in one solution.
+* Have fun !!
 
