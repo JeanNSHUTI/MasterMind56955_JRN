@@ -1,2 +1,2 @@
-#Bindings
-Bindings to interpret network data used by client and server
+# Bindings #
+Bindings used to interpret network data sent and/or received by client and server
