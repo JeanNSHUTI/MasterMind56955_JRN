@@ -1,0 +1,13 @@
+C:\Users\Dell\Source\Repos\Server56955\bin\Debug\netcoreapp3.1\Server56955.exe
+C:\Users\Dell\Source\Repos\Server56955\bin\Debug\netcoreapp3.1\Server56955.deps.json
+C:\Users\Dell\Source\Repos\Server56955\bin\Debug\netcoreapp3.1\Server56955.runtimeconfig.json
+C:\Users\Dell\Source\Repos\Server56955\bin\Debug\netcoreapp3.1\Server56955.runtimeconfig.dev.json
+C:\Users\Dell\Source\Repos\Server56955\bin\Debug\netcoreapp3.1\Server56955.dll
+C:\Users\Dell\Source\Repos\Server56955\bin\Debug\netcoreapp3.1\Server56955.pdb
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.csprojAssemblyReference.cache
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.AssemblyInfo.cs
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.dll
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.pdb
+C:\Users\Dell\Source\Repos\Server56955\obj\Debug\netcoreapp3.1\Server56955.genruntimeconfig.cache
